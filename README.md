@@ -32,4 +32,4 @@ In this Project I made a Tic Tac Toe Game, below are the features of this game, 
 
 ### Long App Demo:
 
-![Long-App-Demo-ticTactoe_in_swift](https://github.com/panchalrajan/ticTactoe_in_swift/blob/main/CustomViewDemoFull.gif)
+![Long-App-Demo-ticTactoe_in_swift](https://github.com/panchalrajan/ticTactoe_in_swift/blob/main/CustomViewsDemoFull.gif)
